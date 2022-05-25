@@ -3,6 +3,16 @@
   float: left;
 }
 
+.box {
+  width: 30%;
+  border: solid black;
+  border-width: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
 img {
   float: right;
 }
